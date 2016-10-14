@@ -1,1 +1,2 @@
-brand=hp
+brand=acer
+
