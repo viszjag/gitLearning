@@ -1,1 +1,1 @@
-brand=Dell
+brand=hp
